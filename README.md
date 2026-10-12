@@ -14,3 +14,7 @@ Open index.html in a browser. No package installation or build command is requir
 ## Deployment
 
 The site is a static Vercel project with no build command or output directory. The production branch is main.
+
+## Live Vercel views
+
+- [naderstudio site production page](https://naderstudio-site.vercel.app/)
